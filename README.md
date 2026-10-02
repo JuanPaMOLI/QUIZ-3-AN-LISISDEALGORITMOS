@@ -6,4 +6,4 @@
 
 ## Gráfica de Búsqueda Binaria
 
-![Búsqueda Binaria](busqueda%20binaria.png)
+![Búsqueda Binaria](busqueda Binaria.png)
